@@ -1,0 +1,36 @@
+dingtalk_webhook: "https://oapi.dingtalk.com/robot/send?access_token=xxxxxxx"
+dingtalk_secret: "xxxxxxxx"
+
+aliyun_accounts:
+  - name: "阿里云1"
+    access_key: "ak1"
+    access_secret: "sk1"
+  - name: "阿里云2"
+    access_key: "ak2"
+    access_secret: "sk2"
+  
+volcengine_accounts:
+  - name: "火山云账号1"
+    ak: "ak1"
+    sk: "sk1"
+
+tencent_cloud_accounts:
+  - name: "腾讯云1"
+    secret_id: "ak1"
+    secret_key: "sk1"
+
+doudian_accounts:
+  - name: "抖店云1"
+    app_key: "ak1"
+    app_secret: "sk1"
+
+huaweicloud_accounts:
+  - name: "华为云"
+    ak: "ak"
+    sk: "sk"
+    region: "cn-north-4"  # 可选，默认cn-north-4
+qiniu_accounts:
+  - name: "七牛云"
+    ak: "ak1"
+    sk: "sk1"
+  - name: "夺冠七牛云"

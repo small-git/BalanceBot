@@ -1,0 +1,16 @@
+pyyaml
+requests
+aliyun-python-sdk-core
+aliyun-python-sdk-bssopenapi
+volcengine-python-sdk
+volcengine
+tencentcloud-sdk-python-billing
+huaweicloudsdkbss
+# 腾讯云官方SDK
+# 如需腾讯云余额采集请取消注释
+# tencentcloud-sdk-python
+# tencentcloud-sdk-python-billing
+# 华为云官方SDK
+# 如需华为云余额采集请取消注释
+# huaweicloudsdkcore
+
