@@ -33,4 +33,3 @@ qiniu_accounts:
   - name: "七牛云"
     ak: "ak1"
     sk: "sk1"
-  - name: "夺冠七牛云"
